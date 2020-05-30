@@ -20,12 +20,15 @@ I've tried with the original BepInEx with Harmony and couldn't get it to work.
 This version is compatible with BepInEx 5.0.1 so you can just drop it in place of the original.
 [BepInEx with HarmonyX](https://github.com/ICanHazCode/BepInEx/releases)
 
+Also needed is [ICanHazCode.ModUtils](https://github.com/ICanHazCode/ModUtils).
+
 ## Installation
-1. Install [BepInEx](https://github.com/ICanHazCode/BepInEx/releases) in the Stationeers steam folder.
-2. Launch the game, reach the main menu, then quit back out.
-3. In the steam folder, there should now be a folder BepInEx/Plugins
-4. Copy the [stationeers.ModLanguageFix]() folder from this mod into BepInEx/Plugins
+ 1. Install [BepInEx](https://github.com/ICanHazCode/BepInEx/releases) in the Stationeers steam folder.
+ 2. Install the [ICanHazCode.ModUtils.dll](https://github.com/ICanHazCode/ModUtils/releases) into BepInEx/core
+ 3. Launch the game, reach the main menu, then quit back out.
+ 4. In the steam folder, there should now be a folder BepInEx/Plugins
+ 5. Copy the [stationeers.ModLanguageFix]() folder from this mod into BepInEx/Plugins
 
 
 ## Version
-- v0.1.0 Initail version
+- v0.1.0 Initial version
